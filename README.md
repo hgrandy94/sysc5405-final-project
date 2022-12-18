@@ -47,7 +47,7 @@ Each artifact in the repository is described below. Note that it is not possible
 
 - *predictions/group_09.csv* [CSV file]
 
- This CSV file contains the final predictions on blind test data that the group submitted for the class competition. The columns in this CSV are: uid (unique identifier of the sample image), and class (predicted class).
+  This CSV file contains the final predictions on blind test data that the group submitted for the class competition. The columns in this CSV are: uid (unique identifier of the sample image), and class (predicted class).
 
 - *training_data/full_dataset.csv* [CSV file]
 
